@@ -1,10 +1,11 @@
 import './App.css';
-import MyComponent from './MyComponent';
-import Counter from './Counter';
-import Say from './Say';
-import EventPractice from './EventPractice';
-import EventPracticeFunc from './EventPracticeFunc';
-import ValidationSample from './ValidationSample';
+// import MyComponent from './MyComponent';
+// import Counter from './Counter';
+// import Say from './Say';
+// import EventPractice from './EventPractice';
+// import EventPracticeFunc from './EventPracticeFunc';
+// import ValidationSample from './ValidationSample';
+import IterationSample from './IterationSample';
 
 function App() {
   return (
@@ -13,8 +14,9 @@ function App() {
     // <Counter />
     // <Say />
     // <EventPractice /> */}
-    <EventPracticeFunc />
-    <ValidationSample />
+    {/* <EventPracticeFunc />
+    <ValidationSample /> */}
+    <IterationSample />
     </>
   );
 }
