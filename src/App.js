@@ -5,7 +5,8 @@ import './App.css';
 // import EventPractice from './EventPractice';
 // import EventPracticeFunc from './EventPracticeFunc';
 // import ValidationSample from './ValidationSample';
-import IterationSample from './IterationSample';
+// import IterationSample from './IterationSample';
+import LifeCycleSample from './LifeCycleSample';
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
     // <EventPractice /> */}
     {/* <EventPracticeFunc />
     <ValidationSample /> */}
-    <IterationSample />
+    {/* <IterationSample /> */}
+    <LifeCycleSample />
     </>
   );
 }
